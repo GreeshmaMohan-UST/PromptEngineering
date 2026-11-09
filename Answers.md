@@ -1,13 +1,4 @@
-# Assignment 2: Prompt Engineering on Real-World Scenarios
-
-Each question has: the full prompt, an explanation of its structure, the prompting technique, the failure modes it prevents, and at least one alternative design.
-
-Notes on assumptions:
-- Where the assignment gives no underlying task (Q3, Q12), I state the task I assumed.
-- Q2 uses a **synthetic** patient summary. Real patient records should not be pasted into any AI tool used for this exercise.
-- Q5 uses **synthetic** transaction data.
-
----
+# Assignment 2: Prompt Engineering
 
 ## Section 1: Ambiguity + Incomplete Context
 
