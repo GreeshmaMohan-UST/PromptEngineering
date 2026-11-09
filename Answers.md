@@ -82,7 +82,7 @@ Zero-shot with a strict output schema and explicit rules. There are no examples 
 
 ### Q2. Healthcare Risk Scenario
 
-**Important:** The sample input must be synthetic or fully de-identified. Do not paste real patient records into any AI tool.
+**Note:** The sample input must be synthetic or fully de-identified. Do not paste real patient records into any AI tool.
 
 **Full prompt**
 
